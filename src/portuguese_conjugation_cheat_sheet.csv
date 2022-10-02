@@ -1,0 +1,345 @@
+Presente,Amar,Comer,,Perfeito,Amar,Comer
+Eu,amo,como,,Eu,amei,comi
+Tu,amas,comes,,Tu,amaste,comeste
+Ela/ele,ama,come,,Ela/ele,amou,comeu
+Nós,amamos,comemos,,Nós,amámos,comemos
+Elas/eles,amam,comem,,Elas/eles,amaram,comeram
+,,,,,,
+Presente,Partir,Vir,,Perfeito,Partir,Vir
+Eu,parto,venho,,Eu,parti,vim
+Tu,partes,vens,,Tu,partiste,vieste
+Ela/ele,parte,vem,,Ela/ele,partiu,veio
+Nós,partimos,vimos,,Nós,partimos,viemos
+Elas/eles,partem,vêm,,Elas/eles,partiram,vieram
+,,,,,,
+Imperfeito,Amar,Comer,,Futuro,Amar,Comer
+Eu,amava,comia,,Eu,amarei,comerei
+Tu,amavas,comias,,Tu,amarás,comerás
+Ela/ele,amava,comia,,Ela/ele,amará,comerá
+Nós,amávamos,comíamos,,Nós,amaremos,comeremos
+Elas/eles,amavam,comiam,,Elas/eles,amarão,comerão
+,,,,,,
+Imperfeito,Partir,Vir,,Futuro,Partir,Vir
+Eu,partia,vinha,,Eu,partirei,virei
+Tu,partias,vinhas,,Tu,partirás,virás
+Ela/ele,partia,vinha,,Ela/ele,partirá,virá
+Nós,partíamos,vínhamos,,Nós,partiremos,viremos
+Elas/eles,partiam,vinham,,Elas/eles,partirão,virão
+,,,,,,
+Mais-que-perf.,Amar,Comer,,Imperativo,Amar,Comer
+Eu,amara,comera,,Tu (+),ama,come
+Tu,amaras,comeras,,Tu (-),ames,comas
+Ela/ele,amara,comera,,Você,ame,coma
+Nós,amáramos,comêramos,,Nós,amemos,comamos
+Elas/eles,amaram,comeram,,Vocês,amem,comam
+,,,,,,
+Mais-que-perf.,Partir,Vir,,Imperativo,Partir,Vir
+Eu,partira,viera,,Tu (+),parte,vem
+Tu,partiras,vieras,,Tu (-),partas,venhas
+Ela/ele,partira,viera,,Você,parta,venha
+Nós,partíramos,viéramos,,Nós,partamos,venhamos
+Elas/eles,partiram,vieram,,Vocês,partam,venham
+,,,,,,
+,,,,,,
+Conj. presente,Amar,Comer,,Conj. imperf.,Amar,Comer
+Eu,ame,coma,,Eu,amasse,comesse
+Tu,ames,comas,,Tu,amasses,comesses
+Ela/ele,ame,coma,,Ela/ele,amasse,comesse
+Nós,amemos,comamos,,Nós,amássemos,comêssemos
+Elas/eles,amem,comam,,Elas/eles,amassem,comessem
+,,,,,,
+Conj. presente,Partir,Vir,,Conj. imperf.,Partir,Vir
+Eu,parta,venha,,Eu,partisse,viesse
+Tu,partas,venhas,,Tu,partisses,viesses
+Ela/ele,parta,venha,,Ela/ele,partisse,viesse
+Nós,partamos,venhamos,,Nós,partíssemos,viéssemos
+Elas/eles,partam,venham,,Elas/eles,partissem,viessem
+,,,,,,
+Conj. futuro,Amar,Comer,,Infinit. pessoal,Amar,Comer
+Eu,amar,comer,,Eu,amar,comer
+Tu,amares,comeres,,Tu,amares,comeres
+Ela/ele,amar,comer,,Ela/ele,amar,comer
+Nós,amarmos,comermos,,Nós,amarmos,comermos
+Elas/eles,amarem,comerem,,Elas/eles,amarem,comerem
+,,,,,,
+Conj. futuro,Partir,Vir,,Infinit. pessoal,Partir,Vir
+Eu,partir,vier,,Eu,partir,vir
+Tu,partires,vieres,,Tu,partires,vires
+Ela/ele,partir,vier,,Ela/ele,partir,vir
+Nós,partirmos,viermos,,Nós,partirmos,virmos
+Elas/eles,partirem,vierem,,Elas/eles,partirem,virem
+,,,,,,
+Condicional,Amar,Comer,,Infinitivo,amar,comer
+Eu,amaria,comeria,,Part. passado,amado,comido
+Tu,amarias,comerias,,Gerúndio,amando,comendo
+Ela/ele,amaria,comeria,,,,
+Nós,amaríamos,comeríamos,,Infinitivo,partir,vir
+Elas/eles,amariam,comeriam,,Part. passado,partido,vindo
+,,,,Gerúndio,partindo,vindo
+Conditional,Partir,Vir,,,,
+Eu,partiria,viria,,Perfeito composto,,tenho amado
+Tu,partirias,virias,,Mais-que-perfeito composto,,tinha amado
+Ela/ele,partiria,viria,,Mais-que-perfeito anterior,,tivera amado
+Nós,partiríamos,viríamos,,Futuro composto,,terei amado
+Elas/eles,partiriam,viriam,,Conjuntivo perfeito,,tenha amado
+,,,,Conj. mais-que-perf. composto,,tivesse amado
+,,,,Conjuntico futuro composto,,tiver amado
+,,,,Condicional composto,,teria amado
+,,,,Infinitivo pessoal perfeito,,ter amado
+,,,,Infinitivo perfeito,,ter amado
+,,,,,,
+,,,,,,
+,Ser,Ir,,,Dar,Ter
+Presente (eu),sou,vou,,Presente (eu),dou,tenho
+Tu,és,vais,,Tu,dás,tens
+Ela/ele,é,vai,,Ela/ele,dá,tem
+Nós,somos,vamos,,Nós,damos,temos
+Elas/eles,são,vão,,Elas/eles,dão,têm
+Perfeito (eu),fui,fui,,Perfeito (eu),dei,tive
+Tu,foste,foste,,Tu,deste,
+Ela/ele,foi,foi,,Ela/ele,deu,teve
+Nós,fomos,fomos,,Nós,demos,
+Elas/eles,foram,foram,,Elas/eles,deram,
+Imperfeito (eu),era,ia,,Imperfeito (eu),dava,tinha
+Conj. pres. (eu),seja,vá,,Conj. pres. (eu),dê,tenha
+,,,,,,
+,Ver,Vir,,,Pôr,Haver
+Presente (eu),vejo,venho,,Presente (eu),ponho,hei
+Tu,vês,vens,,Tu,pões,hás
+Ela/ele,vê,vem,,Ela/ele,põe,há
+Nós,vemos,vimos,,Nós,pomos,havemos
+Elas/eles,veem,vêm,,Elas/eles,põem,hão
+Perfeito (eu),vi,vim,,Perfeito (eu),pus,houve
+Tu,viste,vieste,,Tu,,
+Ela/ele,viu,veio,,Ela/ele,pôs,houve
+Nós,vimos,viemos,,Nós,,
+Elas/eles,viram,vieram,,Elas/eles,,
+Imperfeito (eu),via,vinha,,Imperfeito (eu),punha,havia
+Conj. pres. (eu),veja,venha,,Conj. pres. (eu),ponha,haja
+,,,,,,
+,Estar,Querer,,,,
+Presente (eu),estou,,,,,
+Tu,estás,,,,,
+Ela/ele,está,quer,,,,
+Nós,estamos,,,,,
+Elas/eles,estão,,,,,
+Perfeito (eu),estive,quis,,,,
+Tu,,,,,,
+Ela/ele,esteve,quis,,,,
+Nós,,,,,,
+Elas/eles,,,,,,
+Imperfeito (eu),estava,queria,,,,
+Conj. pres. (eu),esteja,queira,,,,
+,,,,,,
+,,,,,,
+,Dizer,Trazer,,,Saber,Caber
+Presente (eu),digo,trago,,Presente (eu),sei,caibo
+Perfeito (eu),disse,trouxe,,Perfeito (eu),soube,coube
+Perfeito (ela/ele),disse,trouxe,,Perfeito (ela/ele),soube,coube
+Futuro (eu),direi,trarei,,Conj. pres. (eu),saiba,caiba
+,,,,,,
+,Fazer,Poder,,,Prazer,
+Present (eu),faço,posso,,Perfeito (eu),prouve,
+Perfeito (eu),fiz,pude,,Perfeito (ela/ele),prouve,
+Perfeito (ela/ele),fez,pôde,,,,
+Futuro (eu),farei,,,,,
+,,,,,,
+Presente,-zar/zer/zir,-ear,,Presente,"-ir 
+(curto)",-air
+Eu,introduz,passeio,,Eu,rio,saio
+Tu,introduzes,passeias,,Tu,ris,sais
+Ela/ele,introduz,passeia,,Ela/ele,ri,sai
+Nós,introduzimos,passeamos,,Nós,rimos,saímos
+Elas/eles,introduzem,passeiam,,Elas/eles,riem,saem
+,,,,,,
+Presente,"-er 
+(curto)",-oer,,Presente,-uir,-struir
+Eu,creio,doo,,Eu,possuo,construo
+Tu,crês,dóis,,Tu,possuis,constróis
+Ela/ele,crê,dói,,Ela/ele,possui,constrói
+Nós,cremos,doemos,,Nós,possuímos,construímos
+Elas/eles,creem,doem,,Elas/eles,possuem,constroem
+,,,,,,
+,,,,,,
+Presente,"-e*ir 
+(às vezes)","-e*ir 
+(às vezes)",,Presente,"-o*ir
+(às vezes)","-u*ir 
+(às vezes)"
+Eu,agrido,minto,,Eu,durmo,subo
+Tu,agrides,mentes,,Tu,dormes,sobes
+Ela/ele,agride,mente,,Ela/ele,dorme,sobe
+Nós,agredimos,mentimos,,Nós,dormimos,subimos
+Elas/eles,agridem,mentem,,Elas/eles,dormem,sobem
+Verbos,"agredir
+*gredir
+cerzir
+denegrir
+prevenir","aderir
+advertir
+compelir
+competir
+concernir
+convergir
+despir
+divergir
+divertir
+emergir
+enxerir
+expelir
+ferir
+flectir
+fletir
+gerir
+inserir
+mentir
+preterir
+repetir
+seguir
+sentir
+servir
+vestir",,Verbos,"abolir
+cobrir
+dormir
+engolir
+extorquir
+tossir","acudir
+bulir
+cuspir
+entupir
+escapulir
+fugir
+sacudir
+subir
+sumir"
+,,,,,,
+Presente,"-iar
+(às vezes)",,,Infinitivo,Alterações,
+Eu,anseio,,,-jar/ger/gir,ja/ge/gi/jo/ju,
+Tu,anseias,,,-gar/guer/guir,ga/gue/gui/go/gu,
+Ela/ele,anseia,,,-çar/cer/cir,ça/ce/ci/ço/çu,
+Nós,ansiamos,,,-car/quer/quir,ca/que/qui/co/cu,
+Elas/eles,anseiam,,,,,
+Verbos,"anseiar
+odiar",,,,"Termina com
+verbo irregular",
+,,,,Compor,Componho,
+,Presente (eu),,,,,
+Valer,valho,,,,Clíticos,
+Requerer,requeiro,,,Tempos simples,amo-me,
+Parir,pairo,,,"Tempos 
+compostos","tenho-me 
+amado",
+Perder,perco,,,Negação,não me amo,
+Ouvir,ouço,,,Advérbio,como me amo,
+Pedir,peço,,,Conjunção,que me amo,
+Medir,meço,,,"Pronome 
+indefinido","toda a gente 
+se ama",
+,,,,Futuro/condic.,amar-me-ei,
+,,,,,,
+,,,,,,
+,"Part. passado
+simples",,,"-*ar 
+(às vezes)",Part. passado,
+abrir,aberto,,,aceitar,aceite,
+cobrir,coberto,,,Verbos,aceitar,
+dizer,dito,,,,assentar,
+escrever,escrito,,,,empregar,
+fazer,feito,,,,encarregar,
+pôr,posto,,,,entregar,
+ver,visto,,,,livrar,
+vir,vindo,,,,,
+,,,,,,
+"-*ar 
+(às vezes)",Part. passado,,,"-*ar 
+(às vezes)",Part. passado,
+pagar,pago,,,pagar,pago,
+Verbos,"anexar
+cativar
+cegar
+completar
+confessar
+descalçar
+despertar
+dispersar
+expressar
+expulsar
+fartar
+findar
+fixar
+fritar
+ganhar
+gastar
+hirtar
+infectar
+inquietar
+isentar",,,Verbos,"juntar
+libertar
+limpar
+malquistar
+manifestar
+murchar
+ocultar
+pagar
+pasmar
+pegar
+safar
+salvar
+secar
+segurar
+sepultar
+soltar
+sujar
+sujeitar
+suspeitar
+vagar",
+,,,,,,
+,Part. passado,,,,Part. passado,
+afligir,aflito,,,absorver,absorto,
+constringir,constrito,,,abstrair,abstrato,
+destingir,destinto,,,assumir,assumpto,
+erigir,ereto,,,atender,atento,
+frigir,frito,,,benzer,bento,
+surgir,surto,,,convencer,convicto,
+tingir,tinto,,,corrigir,correto,
+,,,,cultivar,culto,
+,Part. passado,,,diluir,diluto,
+afeiçoar,afeto,,,dissolver,dissoluto,
+agradecer,grato,,,eleger,eleito,
+corromper,corrupto,,,envolver,envolto,
+matar,morto,,,enxugar,enxuto,
+morrer,morto,,,exaurir,exausto,
+romper,roto,,,extinguir,extinto,
+,,,,inserir,inserto,
+,,,,misturar,misto,
+,,,,restringir,restrito,
+,,,,revolver,revolto,
+,,,,situar,sito,
+,,,,torcer,torto,
+,,,,,,
+,,,,,,
+,Part. passado,,,,Part. passado,
+comprimir,compresso,,,converter,converso,
+exprimir,expresso,,,incorrer,incurso,
+imprimir,impresso,,,omitir,omisso,
+oprimir,opresso,,,perverter,perverso,
+suprimir,supresso,,,pretender,pretenso,
+,,,,retundir,retunso,
+,Part. passado,,,submeter,submisso,
+aspergir,asperso,,,suspender,suspenso,
+emergir,emerso,,,,,
+imergir,imerso,,,,Part. passado,
+submergir,submerso,,,acender,aceso,
+,,,,defender,defeso,
+,Part. passado,,,prender,preso,
+compelir,compulso,,,surpreender,surpreso,
+expelir,expulso,,,,,
+impelir,impulso,,,,Part. passado,
+propelir,propulso,,,concluir,concluso,
+repelir,repulso,,,excluir,excluso,
+,,,,incluir,incluso,
+,Part. passado,,,,,
+nascer,nado/nato,,,,Part. passado,
+encher,cheio,,,confundir,confuso,
+,,,,demitir,demiso,
