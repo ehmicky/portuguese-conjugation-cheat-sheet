@@ -19,12 +19,12 @@ Ela/ele,amava,comia,,Ela/ele,amará,comerá
 Nós,amávamos,comíamos,,Nós,amaremos,comeremos
 Elas/eles,amavam,comiam,,Elas/eles,amarão,comerão
 ,,,,,,
-Imperfeito,Partir,Vir,,Futuro,Partir,Vir
-Eu,partia,vinha,,Eu,partirei,virei
-Tu,partias,vinhas,,Tu,partirás,virás
-Ela/ele,partia,vinha,,Ela/ele,partirá,virá
-Nós,partíamos,vínhamos,,Nós,partiremos,viremos
-Elas/eles,partiam,vinham,,Elas/eles,partirão,virão
+Imperfeito,Partir,Vir,,Futuro,Partir,Dizer
+Eu,partia,vinha,,Eu,partirei,direi
+Tu,partias,vinhas,,Tu,partirás,dirás
+Ela/ele,partia,vinha,,Ela/ele,partirá,dirá
+Nós,partíamos,vínhamos,,Nós,partiremos,diremos
+Elas/eles,partiam,vinham,,Elas/eles,partirão,dirão
 ,,,,,,
 Mais-que-perf.,Amar,Comer,,Imperativo,Amar,Comer
 Eu,amara,comera,,Tu (+),ama,come
@@ -76,17 +76,18 @@ Ela/ele,amaria,comeria,,,,
 Nós,amaríamos,comeríamos,,Infinitivo,partir,vir
 Elas/eles,amariam,comeriam,,Part. passado,partido,vindo
 ,,,,Gerúndio,partindo,vindo
-Conditional,Partir,Vir,,,,
-Eu,partiria,viria,,Perfeito composto,,tenho amado
-Tu,partirias,virias,,Mais-que-perfeito composto,,tinha amado
-Ela/ele,partiria,viria,,Mais-que-perfeito anterior,,tivera amado
-Nós,partiríamos,viríamos,,Futuro composto,,terei amado
-Elas/eles,partiriam,viriam,,Conjuntivo perfeito,,tenha amado
+Conditional,Partir,Dizer,,,,
+Eu,partiria,diria,,Perfeito composto,,tenho amado
+Tu,partirias,dirias,,Mais-que-perfeito composto,,tinha amado
+Ela/ele,partiria,diria,,Mais-que-perfeito anterior,,tivera amado
+Nós,partiríamos,diríamos,,Futuro composto,,terei amado
+Elas/eles,partiriam,diriam,,Conjuntivo perfeito,,tenha amado
 ,,,,Conj. mais-que-perf. composto,,tivesse amado
 ,,,,Conjuntico futuro composto,,tiver amado
 ,,,,Condicional composto,,teria amado
 ,,,,Infinitivo pessoal perfeito,,ter amado
 ,,,,Infinitivo perfeito,,ter amado
+,,,,Gerúndio perfeito,,tendo amado
 ,,,,,,
 ,,,,,,
 ,Ser,Ir,,,Dar,Ter
@@ -101,7 +102,8 @@ Ela/ele,foi,foi,,Ela/ele,deu,teve
 Nós,fomos,fomos,,Nós,demos,
 Elas/eles,foram,foram,,Elas/eles,deram,
 Imperfeito (eu),era,ia,,Imperfeito (eu),dava,tinha
-Conj. pres. (eu),seja,vá,,Conj. pres. (eu),dê,tenha
+Conj. pres. (eu),seja,vá,,Conj. pres. (eu),dê,
+Imperativo (tu+),sê,,,,,
 ,,,,,,
 ,Ver,Vir,,,Pôr,Haver
 Presente (eu),vejo,venho,,Presente (eu),ponho,hei
@@ -115,7 +117,7 @@ Ela/ele,viu,veio,,Ela/ele,pôs,houve
 Nós,vimos,viemos,,Nós,,
 Elas/eles,viram,vieram,,Elas/eles,,
 Imperfeito (eu),via,vinha,,Imperfeito (eu),punha,havia
-Conj. pres. (eu),veja,venha,,Conj. pres. (eu),ponha,haja
+Conj. pres. (eu),,,,Conj. pres. (eu),,haja
 ,,,,,,
 ,Estar,Querer,,,,
 Presente (eu),estou,,,,,
@@ -133,10 +135,10 @@ Conj. pres. (eu),esteja,queira,,,,
 ,,,,,,
 ,,,,,,
 ,Dizer,Trazer,,,Saber,Caber
-Presente (eu),digo,trago,,Presente (eu),sei,caibo
+Presente (eu),digo,trago,,Presente (eu),sei / saibo,caibo
 Perfeito (eu),disse,trouxe,,Perfeito (eu),soube,coube
 Perfeito (ela/ele),disse,trouxe,,Perfeito (ela/ele),soube,coube
-Futuro (eu),direi,trarei,,Conj. pres. (eu),saiba,caiba
+Futuro (eu),direi,trarei,,Conj. pres. (eu),saiba,
 ,,,,,,
 ,Fazer,Poder,,,Prazer,
 Present (eu),faço,posso,,Perfeito (eu),prouve,
@@ -144,33 +146,33 @@ Perfeito (eu),fiz,pude,,Perfeito (ela/ele),prouve,
 Perfeito (ela/ele),fez,pôde,,,,
 Futuro (eu),farei,,,,,
 ,,,,,,
-Presente,-zar/zer/zir,-ear,,Presente,"-ir 
+Presente,-zar/zer/zir,-ear,,Presente,"-ir
 (curto)",-air
-Eu,introduz,passeio,,Eu,rio,saio
+Eu,introduzo,passeio,,Eu,rio,saio
 Tu,introduzes,passeias,,Tu,ris,sais
 Ela/ele,introduz,passeia,,Ela/ele,ri,sai
 Nós,introduzimos,passeamos,,Nós,rimos,saímos
 Elas/eles,introduzem,passeiam,,Elas/eles,riem,saem
 ,,,,,,
-Presente,"-er 
+Presente,"-er
 (curto)",-oer,,Presente,-uir,-struir
-Eu,creio,doo,,Eu,possuo,construo
-Tu,crês,dóis,,Tu,possuis,constróis
-Ela/ele,crê,dói,,Ela/ele,possui,constrói
-Nós,cremos,doemos,,Nós,possuímos,construímos
-Elas/eles,creem,doem,,Elas/eles,possuem,constroem
+Eu,leio,doo,,Eu,possuo,construo
+Tu,lês,dóis,,Tu,possuis,constróis
+Ela/ele,lê,dói,,Ela/ele,possui,constrói
+Nós,lemos,doemos,,Nós,possuímos,construímos
+Elas/eles,leem,doem,,Elas/eles,possuem,constroem
 ,,,,,,
 ,,,,,,
-Presente,"-e*ir 
-(às vezes)","-e*ir 
+Presente,"-e*ir
+(às vezes)","-e*ir
 (às vezes)",,Presente,"-o*ir
-(às vezes)","-u*ir 
+(às vezes)","-u*ir
 (às vezes)"
-Eu,agrido,minto,,Eu,durmo,subo
-Tu,agrides,mentes,,Tu,dormes,sobes
-Ela/ele,agride,mente,,Ela/ele,dorme,sobe
-Nós,agredimos,mentimos,,Nós,dormimos,subimos
-Elas/eles,agridem,mentem,,Elas/eles,dormem,sobem
+Eu,previno,giro,,Eu,durmo,subo
+Tu,prevines,geres,,Tu,dormes,sobes
+Ela/ele,previne,gere,,Ela/ele,dorme,sobe
+Nós,prevenimos,gerimos,,Nós,dormimos,subimos
+Elas/eles,previnem,gerem,,Elas/eles,dormem,sobem
 Verbos,"agredir
 *gredir
 cerzir
@@ -224,23 +226,32 @@ Verbos,"anseiar
 odiar",,,,"Termina com
 verbo irregular",
 ,,,,Compor,Componho,
-,Presente (eu),,,,,
-Valer,valho,,,,Clíticos,
-Requerer,requeiro,,,Tempos simples,amo-me,
-Parir,pairo,,,"Tempos 
-compostos","tenho-me 
-amado",
-Perder,perco,,,Negação,não me amo,
-Ouvir,ouço,,,Advérbio,como me amo,
-Pedir,peço,,,Conjunção,que me amo,
-Medir,meço,,,"Pronome 
-indefinido","toda a gente 
-se ama",
-,,,,Futuro/condic.,amar-me-ei,
+,,,,,,
+,Presente (eu),,,,Clíticos,
+Valer,valho,,,"Tempos
+simples",chamo-me,
+Requerer,requeiro,,,"Tempos
+compostos","tenho-te
+chamado",
+Parir,pairo,,,"Futuro /
+condicional",amar-me-ei,
+Perder,perco,,,Negação,"não
+me chamo",
+Ouvir,ouço,,,Advérbio,"ainda
+me chamo",
+Pedir,peço,,,"Pronome
+interrogativo","como
+se chama",
+Medir,meço,,,"Conjunção
+subordinada","se
+me chamo",
+,,,,"Pronome
+indefinido","alguém
+se chama",
 ,,,,,,
 ,,,,,,
 ,"Part. passado
-simples",,,"-*ar 
+simples",,,"-*ar
 (às vezes)",Part. passado,
 abrir,aberto,,,aceitar,aceite,
 cobrir,coberto,,,Verbos,aceitar,
@@ -251,8 +262,8 @@ pôr,posto,,,,entregar,
 ver,visto,,,,livrar,
 vir,vindo,,,,,
 ,,,,,,
-"-*ar 
-(às vezes)",Part. passado,,,"-*ar 
+"-*ar
+(às vezes)",Part. passado,,,"-*ar
 (às vezes)",Part. passado,
 pagar,pago,,,pagar,pago,
 Verbos,"anexar
